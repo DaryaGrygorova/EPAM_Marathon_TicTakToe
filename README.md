@@ -4,7 +4,7 @@
 ДЗ: Декомпозиция продукту (дошка Міро): https://miro.com/app/board/uXjVPFxpH_I=/?share_link_id=662832718549
 
 2. UI/UX Design (Володимир Дзюман, Experience Designer);
-
+ДЗ: https://www.figma.com/file/Dtrllz9GEUNsapenziwwbK/Untitled?node-id=0%3A1&t=MJpRach8Rzhgdcjt-1
 3. Cloud (Артур Лагуза, Lead Systems Engineer);
 
 4. Web API (Java - Олексій Поліщук, Software Engineer, .Net - Тетяна Лікорова, Senior Software Engineer);
